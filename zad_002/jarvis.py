@@ -1,9 +1,7 @@
 from angle_cw import angle_cw
 from dist import dist
 from ox_angle import ox_angle
-from orient import orient
 
-EPS = 1e-10
 
 def jarvis(S):
     # sortowanie punktów (stabilne) po x -> po y
