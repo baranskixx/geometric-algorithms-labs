@@ -6,4 +6,4 @@ Most of the comments and documentation in Polish.
 * **Lab 3 - Triangulation**
 * **Lab 4 - Intersections**
 
-We also created project about Trapezoidal Maps. You can find it: :soon:
+We also created project about Trapezoidal Maps. You can find it here: https://github.com/baranskixx/trapezoidal-maps
